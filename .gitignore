@@ -1,0 +1,15 @@
+# Secrets
+.env
+**/.env
+
+# Dependencies & build output
+node_modules/
+deployment/artifacts/
+deployment/cache/
+deployment/typechain-types/
+deployment/coverage/
+deployment/coverage.json
+
+# OS / editor
+.DS_Store
+.vscode/

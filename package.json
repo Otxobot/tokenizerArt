@@ -1,0 +1,8 @@
+{
+  "name": "tokenizeart42",
+  "private": true,
+  "description": "TokenizeArt42 - 42 NFT project (abasante). Tooling lives in ./deployment; this file only declares the npm workspace.",
+  "workspaces": [
+    "deployment"
+  ]
+}
